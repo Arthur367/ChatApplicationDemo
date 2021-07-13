@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "192193612620",
+    "firebase_url": "https://chatapptria.firebaseio.com",
+    "project_id": "chatapptria",
+    "storage_bucket": "chatapptria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192193612620:android:9150fb5156526d9a225de9",
+        "android_client_info": {
+          "package_name": "com.arthur.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192193612620-bi4qk20hi5a7e8b3na8f1m8bh36k10o7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arthur.chatapplication",
+            "certificate_hash": "f31c1d9114567b6d2dcd83f3080be5ae70c88c18"
+          }
+        },
+        {
+          "client_id": "192193612620-iuc69fsj8gvrn8ksa26l03m6jrkkuk7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-QQhow7UKerz6adk6gainF4D8kLM5edw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192193612620-iuc69fsj8gvrn8ksa26l03m6jrkkuk7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
